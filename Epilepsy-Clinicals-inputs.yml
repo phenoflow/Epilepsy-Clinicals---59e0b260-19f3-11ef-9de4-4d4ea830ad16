@@ -1,0 +1,102 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/epilepsy-clinicals-reflex---primary.py
+inputModule3:
+  class: File
+  path: python/epilepsy-clinicals-control---primary.py
+inputModule4:
+  class: File
+  path: python/temporal-epilepsy-clinicals---primary.py
+inputModule5:
+  class: File
+  path: python/epilepsy-clinicals-consciousness---primary.py
+inputModule6:
+  class: File
+  path: python/grand-epilepsy-clinicals---primary.py
+inputModule7:
+  class: File
+  path: python/epilepsy-clinicals-epilepticu---primary.py
+inputModule8:
+  class: File
+  path: python/epilepsy-clinicals-motor---primary.py
+inputModule9:
+  class: File
+  path: python/epilepsy-clinicals---primary.py
+inputModule10:
+  class: File
+  path: python/epilepsy-clinicals-month---primary.py
+inputModule11:
+  class: File
+  path: python/epilepsy-clinicals-petit---primary.py
+inputModule12:
+  class: File
+  path: python/epilepsy-clinicals-impairment---primary.py
+inputModule13:
+  class: File
+  path: python/focal-epilepsy-clinicals---primary.py
+inputModule14:
+  class: File
+  path: python/complex-epilepsy-clinicals---primary.py
+inputModule15:
+  class: File
+  path: python/epilepsy-clinicals-employment---primary.py
+inputModule16:
+  class: File
+  path: python/partial-epilepsy-clinicals---primary.py
+inputModule17:
+  class: File
+  path: python/epilepsy-clinicals-specified---primary.py
+inputModule18:
+  class: File
+  path: python/epilepsy-clinicals-seizure---primary.py
+inputModule19:
+  class: File
+  path: python/nonconvulsive-epilepsy-clinicals---primary.py
+inputModule20:
+  class: File
+  path: python/myoclonic-epilepsy-clinicals---primary.py
+inputModule21:
+  class: File
+  path: python/tonicclonic-epilepsy-clinicals---primary.py
+inputModule22:
+  class: File
+  path: python/pyknoepilepsy-epilepsy-clinicals---primary.py
+inputModule23:
+  class: File
+  path: python/nocturnal-epilepsy-clinicals---primary.py
+inputModule24:
+  class: File
+  path: python/epilepsy-clinicals-otohara---primary.py
+inputModule25:
+  class: File
+  path: python/epilepsy-clinicals-treatment---primary.py
+inputModule26:
+  class: File
+  path: python/epilepsy-clinicals-resolved---primary.py
+inputModule27:
+  class: File
+  path: python/epilepsy-clinicals-automatism---primary.py
+inputModule28:
+  class: File
+  path: python/limbic-epilepsy-clinicals---primary.py
+inputModule29:
+  class: File
+  path: python/epilepsy-clinicals-forms---primary.py
+inputModule30:
+  class: File
+  path: python/epilepsy-clinicals-activity---primary.py
+inputModule31:
+  class: File
+  path: python/epilepsy-clinicals-lennoxgastaut---primary.py
+inputModule32:
+  class: File
+  path: python/epilepsy-clinicals-psychosis---primary.py
+inputModule33:
+  class: File
+  path: python/epilepsy---primary.py
+inputModule34:
+  class: File
+  path: python/output-cases.py
